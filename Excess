@@ -1,0 +1,4 @@
+def Birthday():
+  print(int(input('>>Month of Birth: ')))
+  print(int(input('>>Day of Birth: ')))
+  print(int(input('>>Year of Birth: ')))
